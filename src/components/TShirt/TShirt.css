@@ -1,5 +1,6 @@
 .t-shirt {
     height: 500px;
+    width: 300px;
     border: 1px solid lightgray;
     border-radius: 10px;
 }
